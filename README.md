@@ -8,7 +8,7 @@ Self-explanatory. I used to make fun of people who entered the future kicking an
 
 ## Installation
 
-With great hesitation, I've published it to the [chrome web store](https://chrome.google.com/webstore/detail/the-old-github-font/gklibcblhkjlfhfelnbelngjciflknhp).
+With great hesitation and regret, I've published it to the [chrome web store](https://chrome.google.com/webstore/detail/the-old-github-font/gklibcblhkjlfhfelnbelngjciflknhp).
 
 ## License
 
