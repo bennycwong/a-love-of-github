@@ -1,6 +1,6 @@
 {
   "name": "the-old-github-font",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The old Github font",
   "dependencies": {
     "chrome-webstore-upload-cli": "^1.0.3"
