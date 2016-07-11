@@ -1,0 +1,28 @@
+{
+  "name": "The old GitHub font",
+  "version": "1.0.0",
+  "description": "The old GitHub font",
+  "homepage_url": "https://github.com/rreusser/the-old-github-font",
+  "manifest_version": 2,
+  "minimum_chrome_version": "49",
+  "permissions": [
+    "https://github.com/*",
+    "https://gist.github.com/*",
+    "storage"
+  ],
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "https://github.com/*",
+        "https://gist.github.com/*"
+      ],
+      "css": [
+        "content.css"
+      ]
+    }
+  ]
+}
