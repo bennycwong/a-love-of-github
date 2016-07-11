@@ -2,7 +2,7 @@
 
 > The old GitHub font, a Chrome extension.
 
-***Note:*** *Forgive the hiccup. Waiting for fixed + published version to show up.* 😟
+***Note:*** *Forgive the hiccup. Made a typo in v1.0.1. Waiting for fixed + published version 1.0.2 to show up.* 😟
 
 ## Introduction
 
