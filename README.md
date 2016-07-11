@@ -1,6 +1,6 @@
 # the-old-github-font
 
-> The old GitHub font.
+> The old GitHub font, a Chrome extension.
 
 ## Introduction
 
