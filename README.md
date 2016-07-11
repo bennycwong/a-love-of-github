@@ -8,7 +8,7 @@ Self-explanatory. I used to make fun of people who entered the future kicking an
 
 ## Installation
 
-Haven't submitted to the chrome webstore yet. Right now you'll have to clone and load the unpacked extension. Don't worry. It's safe. You can read the code pretty quickly. It's one line of CSS.
+With great hesitation, I've published it to the [chrome web store](https://chrome.google.com/webstore/detail/the-old-github-font/gklibcblhkjlfhfelnbelngjciflknhp/related).
 
 ## License
 
