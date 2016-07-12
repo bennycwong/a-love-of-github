@@ -1,8 +1,8 @@
 {
-  "name": "The old GitHub font",
+  "name": "A love of GitHub",
   "version": "1.0.3",
-  "description": "The old GitHub font",
-  "homepage_url": "https://github.com/rreusser/the-old-github-font",
+  "description": "DSC Thunder font on Github",
+  "homepage_url": "https://github.com/bennycwong/a-love-of-github",
   "manifest_version": 2,
   "minimum_chrome_version": "49",
   "permissions": [

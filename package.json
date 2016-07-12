@@ -1,7 +1,7 @@
 {
-  "name": "the-old-github-font",
+  "name": "a-love-of-github",
   "version": "1.0.3",
-  "description": "The old Github font",
+  "description": "DSC Thunder on Github",
   "dependencies": {
     "chrome-webstore-upload-cli": "^1.0.3"
   },
@@ -9,6 +9,6 @@
   "scripts": {
     "release": "webstore upload --source=extension --auto-publish"
   },
-  "author": "Ricky Reusser",
+  "author": "Benny Wongr",
   "license": "MIT"
 }

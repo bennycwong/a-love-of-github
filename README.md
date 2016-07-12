@@ -1,18 +1,19 @@
-# the-old-github-font
+# a-love-of-github
 
-> The old GitHub font, a Chrome extension.
+> DSC Thudner on Github, a Chrome extension.
 
 ## Introduction
 
-Self-explanatory. I used to make fun of people who entered the future kicking and screaming and dragging their heels, but shoe's on the other foot now. A nice quick lesson at learning how to make a Chrome extension. I think it's pretty close now, but if you have improvements to the CSS, PRs welcome! 😬
+@Morkrom wanted A Love Of Thunder on Github, so here it is.
 
-If you're into this sort of thing more generally (or if you use github enterprise and need to customize the domain), see below for more general approaches. 🚀
 
 ## Installation
 
-With great hesitation and deepest regret, I've published it to the [chrome web store](https://chrome.google.com/webstore/detail/the-old-github-font/gklibcblhkjlfhfelnbelngjciflknhp).
+Drag the a-love-of-github.crx into your chrome browser.  
+You need A Love Of Thunder installed on your system.  
 
 ## See Also
+
 - [refined-github](https://github.com/sindresorhus/refined-github): This change and many more!
 - [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en): a generalized form of this extension. Apply your own CSS to any site. See [issue #7](https://github.com/rreusser/the-old-github-font/issues/7#issuecomment-232039750) for details.
 
