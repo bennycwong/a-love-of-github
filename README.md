@@ -6,7 +6,7 @@
 
 Self-explanatory. I used to make fun of people who entered the future kicking and screaming and dragging their heels, but shoe's on the other foot now. A nice quick lesson at learning how to make a Chrome extension. I think it's pretty close now, but if you have improvements to the CSS, PRs welcome! 😬
 
-If you're into this sort of thing more generally, see below for more general approaches. 🚀
+If you're into this sort of thing more generally (or if you use github enterprise and need to customize the domain), see below for more general approaches. 🚀
 
 ## Installation
 
