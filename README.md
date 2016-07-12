@@ -1,6 +1,6 @@
 # a-love-of-github
 
-> DSC Thudner on Github, a Chrome extension.
+> DSC Thunder on Github, a Chrome extension.
 
 ## Introduction
 
